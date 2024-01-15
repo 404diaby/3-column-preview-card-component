@@ -29,7 +29,7 @@ Users should be able to:
 ### Screenshot
 
 ![Desktop Screen](screenshots/desktopView.png)
-![Mobile Screen](screenshots/mobileView.png)
+![Mobile Screen](screenshots/mobileView.png){:height="400px"}
 
 
 ### Links
