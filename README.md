@@ -29,8 +29,7 @@ Users should be able to:
 ### Screenshot
 
 ![Desktop Screen](screenshots/desktopView.png)
-![Mobile Screen](screenshots/mobileView.png=x250)
-<img src="screenshots/mobileView.png"  height="250">
+<img src="screenshots/mobileView.png"  height="900">
 
 
 ### Links
