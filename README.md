@@ -34,7 +34,7 @@ Users should be able to:
 
 ### Links
 - Solution URL: [Github - repository](https://github.com/404diaby/3-column-preview-card-component)
-- Live Site URL: [Vercel - hosting](hhttps://3-column-preview-card-component-dm.vercel.app/)
+- Live Site URL: [Vercel - hosting](https://3-column-preview-card-component-dm.vercel.app/)
 
 ## My process
 
