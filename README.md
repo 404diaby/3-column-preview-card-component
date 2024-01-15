@@ -30,6 +30,7 @@ Users should be able to:
 
 ![Desktop Screen](screenshots/desktopView.png)
 ![Mobile Screen](screenshots/mobileView.png=x250)
+<img src="screenshots/mobileView.png"  height="250">
 
 
 ### Links
